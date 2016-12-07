@@ -1,10 +1,6 @@
-NgVideo
+youtubeVideo
 =======
 ### Youtube Search Application with AngularJS
-
-Demo
-----
-http://www.rubixa.com/ngvideo/public
 
 Dependencies
 ------------
